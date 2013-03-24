@@ -3,22 +3,24 @@ redis-metrics-queries
 
 A library of Lua queries for managing metrics in Redis.
 
-## Campaigns
+## Data types
+
+### Campaigns
 
 TODO
 
 
-## Sources
+### Sources
 
 TODO
 
 
-## Events
+### Events
 
 TODO
 
 
-## Counters
+### Counters
 
 TODO
 
